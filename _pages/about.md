@@ -38,7 +38,7 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PacificVis 2025</div><img src='image/pacificvis2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PacificVis 2025</div><img src='images/pacificvis2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization](https://arxiv.org/pdf/2502.04940)
