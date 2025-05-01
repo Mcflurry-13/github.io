@@ -1,3 +1,4 @@
-body, h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
+/* Apply Crimson Pro font site-wide */
+body, h1, h2, h3, h4, h5, h6, .site-title, .site-nav, .page__content {
   font-family: 'Crimson Pro', serif;
 }
