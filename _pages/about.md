@@ -87,7 +87,7 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Submitted to *ZhuangShi*</div>
+      <div class="badge">ZhuangShi (under review)</div>
       <img src='images/huashangmei.png' alt="Huashang Aesthetic" width="100%">
     </div>
   </div>
@@ -99,11 +99,9 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
 
 [[Project Website]](http://111.230.109.148:8080) [[PDF (upon request)]](#)
 
-<!-- 
 - We propose a three-layer cultural gene framework for interpreting visual, behavioral, and ideological elements of Chinese ethnic attire.  
-- We design **Huashang Aesthetic**, an interactive platform that integrates AI-generated storytelling and image synthesis.  
+- We design **Huachang Aesthetic**, an interactive platform that integrates **AI-generated** storytelling and image synthesis.  
 - This system enhances user understanding and cultural identity through progressive, multimodal exploration.
--->
 
 </div>
 </div>
