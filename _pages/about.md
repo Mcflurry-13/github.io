@@ -17,8 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m **Xiaofan Ma (马霄凡)**, a Master's student in **Interaction Design** at **Sun Yat-sen University**, based in the **School of Journalism and Communication**.  
-My research focuses on **designing human-centered AI systems** that enhance understanding, creativity, and collaboration in complex, interdisciplinary workflows.
+Hello 👋! My name is **Xiaofan Ma (马霄凡)**, and I am a Master's student in **Interaction Design** at **Sun Yat-sen University**, based in the **School of Journalism and Communication**.
+
+My academic journey bridges **Human-Computer Interaction (HCI)** and **Communication Studies**, enabling me to investigate how AI technologies can empower human understanding, expression, and collaboration in complex real-world settings.
+
+My current research focuses on **AI-mediated communication in interdisciplinary teams**, where I explore how **chatbots** can reduce cognitive barriers, enhance mutual understanding, and foster alignment through **persuasive strategies** and **knowledge boundary negotiation**. I draw from theories in **HCI, communication, and social cognition** to design systems that amplify human capabilities and support smoother collaboration across disciplines.
+
+Beyond collaborative AI, I am broadly interested in **designing human-centered AI systems** that support:
+- ✍️ cultural exploration and creative expression (e.g., generative experiences for traditional Chinese attire),
+- 📊 multimodal storytelling and data visualization (e.g., best paper research on visual analytics),
+- 👵 inclusive interaction for aging populations (e.g., AI-assisted activities and VR well-being in older adults), and
+- 👶 identity exploration among Gen Z (e.g., AI-driven narrative games for self-reflection and future thinking).
+
+Through my work, I strive to build **empathetic, adaptive, and empowering AI systems**—technologies that help people understand the world, collaborate meaningfully, and reflect more deeply on themselves 🌏❤️.
 
 
 
