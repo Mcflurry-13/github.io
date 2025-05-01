@@ -24,7 +24,7 @@ My academic journey bridges **Human-Computer Interaction (HCI)** and **Communica
 My current research focuses on **AI-mediated communication in interdisciplinary teams**, where I explore how **AI Agent** can reduce cognitive barriers, enhance mutual understanding, and foster alignment through **persuasive strategies** and **knowledge boundary negotiation**. I draw from theories in **HCI, communication, and social cognition** to design systems that amplify human capabilities and support smoother collaboration across disciplines.
 
 Beyond collaborative AI, I am broadly interested in **designing human-centered AI systems** that support:
-- ✍️ cultural exploration and creative expression
+- 🎨 cultural exploration and creative expression
 - 📊 multimodal storytelling and data visualization
 - 👵 inclusive interaction for older adults
 - ❤️ AI-driven narrative games for self-reflection and future thinking
@@ -67,8 +67,7 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
 
 - *2024.11 - 2025.05 (now)*, [Research Center for Aging User Experience and Service System Design](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm), advised by [Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), Tsinghua University.
 
-# 🎖 Honors and Awards
-<i class="fa-solid fa-award" style="color: orange;" aria-hidden="true"></i> **Honors and Awards**
+# ✨ Honors and Awards
 
 - *May 2025* **Gold Winner** 2025 MUSE Design Award  
 - *Jun 2024* **Top 1%** Shanghai Outstanding Graduate  
