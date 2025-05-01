@@ -76,7 +76,9 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
   <div class='paper-box-text' markdown="1">
 
 **VisAug: Speech-rich Video Navigation System Based on AI-Generated Visual Augmentations**
-- Baoquan Zhao, **Xiaofan Ma**, Qianshi Pang, Ruomei Wang, Fan Zhou, Shujin Lin*
+- [Baoquan Zhao](https://baoquanzhao.github.io/), **Xiaofan Ma**, Qianshi Pang, Ruomei Wang, Fan Zhou, Shujin Lin*
+- [[**User Study**]](https://www2768.github.io/suppl/)
+
 - This paper presents an AI-powered interface that enhances speech-rich video navigation via semantic keyword-based visual augmentations.
 
 </div>
@@ -84,6 +86,7 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 <br>
 
+<!-- ✅ 论文 3：文化基因论文 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -94,12 +97,12 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
   <div class='paper-box-text' markdown="1">
 
 **Layered Exploration and Experience of Chinese Ethnic Costume from a Cultural Gene Perspective**  
-- **Xiaofan Ma**, Lirong Yan, Weiping Zeng, Weijia Zhao, Huiyue Wu  
+- **Xiaofan Ma**, Lirong Yan, Weiping Zeng, Weijia Zhao, Huiyue Wu*
 - Submitted to *Zhuangshi* ([《装饰》](https://www.ad.tsinghua.edu.cn/info/1052/1058.htm) ，Journal of Design)  
 
-[[Project Website]](http://111.230.109.148:8080) 
+- [[**Project Website**]](http://111.230.109.148:8080) 
 
-- We present a layered cultural gene model and design an AI-enhanced system, Huashang Aesthetic, to support progressive cultural exploration and engagement with Chinese ethnic costume.
+- We present a layered cultural gene model and design an **AI-enhanced system**, Huashang Aesthetic, to support progressive cultural exploration and engagement with Chinese ethnic costume.
 
 </div>
 </div>
@@ -123,6 +126,12 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 # 💻 Internships
 
 - *2024.11 - 2025.05 (now)*, [Research Center for Aging User Experience and Service System Design](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm), advised by [Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), Tsinghua University.
+
+<div style="margin-left: 2em;">
+- Conducted user research and system evaluation on <span style="color:rgb(164,138,255);">digital participation mechanism</span> among older adults in online communities.  
+- Designed and deployed an <span style="color:rgb(164,138,255);">AI agent for older adults' group chats</span>, integrated into existing messaging platforms to enable real-time conversational support.  
+- Investigated cultural differences in older adults’ perceptions, comfort levels, and emotional reactions to <span style="color:rgb(164,138,255);">VR-based experiences</span>, comparing user behavior and design expectations across Chinese and international participants.
+</div>
 
 <br><br>
 
