@@ -42,17 +42,68 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PacificVis 2025</div><img src='images/pacificvis2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<br>
 
-[More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization](https://arxiv.org/pdf/2502.04940)
+<!-- ✅ 论文 1：视觉化设计论文 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE PacificVis 2025</div>
+      <img src='images/pacificvis2025.png' alt="More Than Beautiful" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
+[More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization](https://arxiv.org/pdf/2502.04940)  
+Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**  
+[**Conference paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=frQ9tgMAAAAJ&citation_for_view=frQ9tgMAAAAJ:d1gkVwhDpl0C)  
 
-[**Conference paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=frQ9tgMAAAAJ&citation_for_view=frQ9tgMAAAAJ:d1gkVwhDpl0C)
+- This study provides the first systematic characterization of artistic data visualization through 220 data artworks and 12 interviews with artists.
 
-- This study provides the first systematic characterization of artistic data visualization by analyzing 220 artworks and conducting 12 interviews with practitioners, offering theoretical insights and practical guidance for bridging data aesthetics and visualization design.
-</div></div>
+</div>
+</div>
+
+<br>
+
+<!-- ✅ 论文 2：AI 视频增强论文 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACM Multimedia 2025 (under review)</div>
+      <img src='images/visaug.png' alt="Speech-Rich Video Navigation" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[VisAug: Speech-rich Video Navigation System Based on AI-Generated Visual Augmentations](#)  
+**Xiaofan Ma**, Collaborators...  
+[**PDF (Under review)**](#)
+
+- This paper presents an AI-powered interface that enhances speech-rich video navigation via semantic keyword-based visual augmentations.
+
+</div>
+</div>
+
+<br>
+
+<!-- ✅ 论文 3：老年用户与数字参与 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICC-RCA 2022</div>
+      <img src='images/wecare.png' alt="WeCare" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[WeCare: Combating Relocated Seniors’ Loneliness through Community Gardening Engagement and Digital Interaction](#)  
+**Xiaofan Ma**, Collaborators...  
+[**Design Competition Winner**](#)
+
+- A service concept that connects relocated seniors via WeChat-based gardening and AI-assisted interaction to alleviate social isolation.
+
+</div>
+</div>
 
 <br><br>
 
