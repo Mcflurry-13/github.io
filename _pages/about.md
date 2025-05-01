@@ -21,7 +21,7 @@ Hello 👋! My name is **Xiaofan Ma (马霄凡)**, and I am a Master's student i
 
 My academic journey bridges **Human-Computer Interaction (HCI)** and **Communication Studies**, enabling me to investigate how AI technologies can empower human understanding, expression, and collaboration in complex real-world settings.
 
-My current research focuses on **AI-mediated communication in interdisciplinary teams**, where I explore how **chatbots** can reduce cognitive barriers, enhance mutual understanding, and foster alignment through **persuasive strategies** and **knowledge boundary negotiation**. I draw from theories in **HCI, communication, and social cognition** to design systems that amplify human capabilities and support smoother collaboration across disciplines.
+My current research focuses on **AI-mediated communication in interdisciplinary teams**, where I explore how **AI Agent** can reduce cognitive barriers, enhance mutual understanding, and foster alignment through **persuasive strategies** and **knowledge boundary negotiation**. I draw from theories in **HCI, communication, and social cognition** to design systems that amplify human capabilities and support smoother collaboration across disciplines.
 
 Beyond collaborative AI, I am broadly interested in **designing human-centered AI systems** that support:
 - ✍️ cultural exploration and creative expression (e.g., generative experiences for traditional Chinese attire),
