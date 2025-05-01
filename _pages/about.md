@@ -37,6 +37,8 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 # 🔥 News
 
 - *2025.04*: 🎉🎉 Our paper *“More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization”* got **IEEE PacificVIS 2025 Conference Track Best Paper Award 🏆**! Thanks to my collaborators!
+- *2024.11*: 🎉 I started a research internship at the [Tsinghua University Future Laboratory](https://thfl.tsinghua.edu.cn/en/), working at the [Research Center for Aging User Experience and Service System Design](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm) under the supervision of [Prof. Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm).
+
 
 <br><br>
 
@@ -53,8 +55,8 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
   <div class='paper-box-text' markdown="1">
 
 [More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization](https://arxiv.org/pdf/2502.04940)  
-Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**  
-[**Conference paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=frQ9tgMAAAAJ&citation_for_view=frQ9tgMAAAAJ:d1gkVwhDpl0C)  
+- Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**  
+- [**Conference paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=frQ9tgMAAAAJ&citation_for_view=frQ9tgMAAAAJ:d1gkVwhDpl0C)  
 
 - This study provides the first systematic characterization of artistic data visualization through 220 data artworks and 12 interviews with artists.
 
@@ -73,10 +75,8 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
   </div>
   <div class='paper-box-text' markdown="1">
 
-[VisAug: Speech-rich Video Navigation System Based on AI-Generated Visual Augmentations](#)  
-Baoquan Zhao, **Xiaofan Ma**, Qianshi Pang, Ruomei Wang, Fan Zhou, Shujin Lin*
-[**PDF (Under review)**](#)
-
+**VisAug: Speech-rich Video Navigation System Based on AI-Generated Visual Augmentations**
+- Baoquan Zhao, **Xiaofan Ma**, Qianshi Pang, Ruomei Wang, Fan Zhou, Shujin Lin*
 - This paper presents an AI-powered interface that enhances speech-rich video navigation via semantic keyword-based visual augmentations.
 
 </div>
@@ -97,7 +97,7 @@ Baoquan Zhao, **Xiaofan Ma**, Qianshi Pang, Ruomei Wang, Fan Zhou, Shujin Lin*
 - **Xiaofan Ma**, Lirong Yan, Weiping Zeng, Weijia Zhao, Huiyue Wu  
 - Submitted to *Zhuangshi* (《装饰》 Journal of Design)  
 
-[[Project Website]](http://111.230.109.148:8080) [[PDF (upon request)]](#)
+[[Project Website]](http://111.230.109.148:8080) 
 
 - We present a layered cultural gene model and design an AI-enhanced system, Huashang Aesthetic, to support progressive cultural exploration and engagement with Chinese ethnic costume.
 
