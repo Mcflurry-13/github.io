@@ -24,34 +24,30 @@ My academic journey bridges **Human-Computer Interaction (HCI)** and **Communica
 My current research focuses on **AI-mediated communication in interdisciplinary teams**, where I explore how **AI Agent** can reduce cognitive barriers, enhance mutual understanding, and foster alignment through **persuasive strategies** and **knowledge boundary negotiation**. I draw from theories in **HCI, communication, and social cognition** to design systems that amplify human capabilities and support smoother collaboration across disciplines.
 
 Beyond collaborative AI, I am broadly interested in **designing human-centered AI systems** that support:
-- ✍️ cultural exploration and creative expression (e.g., generative experiences for traditional Chinese attire),
-- 📊 multimodal storytelling and data visualization (e.g., best paper research on visual analytics),
-- 👵 inclusive interaction for aging populations (e.g., AI-assisted activities and VR well-being in older adults), and
-- ❤️ identity exploration among Gen Z (e.g., AI-driven narrative games for self-reflection and future thinking).
+- ✍️ cultural exploration and creative expression
+- 📊 multimodal storytelling and data visualization
+- 👵 inclusive interaction for older adults
+- ❤️ AI-driven narrative games for self-reflection and future thinking
 
-Through my work, I strive to build **empathetic, adaptive, and empowering AI systems**—technologies that help people understand the world, collaborate meaningfully, and reflect more deeply on themselves 🌏❤️.
+Through my work, I strive to build **empathetic, adaptive, and empowering AI systems**—technologies that help people understand the world, collaborate meaningfully, and reflect more deeply on themselves 🌏.
 
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉🎉 Our paper "More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization" got IEEE PacificVIS 2025 Conference Track Best Paper Award🏆! Thanks to my collaborators!. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PacificVis 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization](https://arxiv.org/pdf/2502.04940)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Conference paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=frQ9tgMAAAAJ&citation_for_view=frQ9tgMAAAAJ:d1gkVwhDpl0C) <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- This study provides the first systematic characterization of artistic data visualization by analyzing 220 artworks and conducting 12 interviews with practitioners, offering theoretical insights and practical guidance for bridging data aesthetics and visualization design.
 </div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
