@@ -68,5 +68,10 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
 - *2024.11 - 2025.05 (now)*, [Research Center for Aging User Experience and Service System Design](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm), advised by [Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), Tsinghua University.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<i class="fa-solid fa-award" style="color: orange;" aria-hidden="true"></i> **Honors and Awards**
+
+- *May 2025* **Gold Winner** 2025 MUSE Design Award  
+- *Jun 2024* **Top 1%** Shanghai Outstanding Graduate  
+- *Dec 2022* **Top 1%** National Scholarship for Undergraduate Students  
+- *2021 – 2024* **First Prize** SISU Outstanding Student Scholarship  
+- *Dec 2024* **Silver Winner** 2024 LONDON DESIGN AWARDS  
