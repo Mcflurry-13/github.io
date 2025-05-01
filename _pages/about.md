@@ -44,6 +44,23 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 # 📝 Publications
 
+<div class="custom-news-card">
+  <div class="custom-news-image">
+    <span class="custom-tag">April, 2025</span>
+    <img src="images/pacificvis2025.png" alt="More Than Beautiful">
+  </div>
+  <div class="custom-news-text">
+    <h3><b>More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization</b></h3>
+    <p><i>Authors:</i> Xingyu Lan, Yifan Wang, Lingyu Peng, <b>Xiaofan Ma</b></p>
+    <p>This study provides the first systematic characterization of artistic data visualization through 220 data artworks and 12 interviews with artists.</p>
+    <p>
+      <a href="https://arxiv.org/pdf/2502.04940">[Arxiv]</a>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=frQ9tgMAAAAJ&citation_for_view=frQ9tgMAAAAJ:d1gkVwhDpl0C">[Scholar]</a>
+    </p>
+  </div>
+</div>
+
+
 <!-- ✅ 论文 1：视觉化设计论文 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
