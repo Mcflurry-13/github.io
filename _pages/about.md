@@ -69,8 +69,8 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
 
 # ✨ Honors and Awards
 
-- *May 2025* **Gold Winner** 2025 MUSE Design Award  
+- *May 2025* **Gold Winner** 2025 MUSE Design Award
+- *Dec 2024* **Silver Winner** 2024 LONDON DESIGN AWARDS  
 - *Jun 2024* **Top 1%** Shanghai Outstanding Graduate  
 - *Dec 2022* **Top 1%** National Scholarship for Undergraduate Students  
 - *2021 – 2024* **First Prize** SISU Outstanding Student Scholarship  
-- *Dec 2024* **Silver Winner** 2024 LONDON DESIGN AWARDS  
