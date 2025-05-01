@@ -27,14 +27,14 @@ Beyond collaborative AI, I am broadly interested in **designing human-centered A
 - ✍️ cultural exploration and creative expression (e.g., generative experiences for traditional Chinese attire),
 - 📊 multimodal storytelling and data visualization (e.g., best paper research on visual analytics),
 - 👵 inclusive interaction for aging populations (e.g., AI-assisted activities and VR well-being in older adults), and
-- 👶 identity exploration among Gen Z (e.g., AI-driven narrative games for self-reflection and future thinking).
+- ❤️ identity exploration among Gen Z (e.g., AI-driven narrative games for self-reflection and future thinking).
 
 Through my work, I strive to build **empathetic, adaptive, and empowering AI systems**—technologies that help people understand the world, collaborate meaningfully, and reflect more deeply on themselves 🌏❤️.
 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
