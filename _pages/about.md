@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span class='anchor' id='about-me'></span>
-
 Hello! I’m **Xiaofan Ma (马霄凡)**, a Master's student in **Interaction Design** at **Sun Yat-sen University**, based in the **School of Journalism and Communication**.  
 My research focuses on **designing human-centered AI systems** that enhance understanding, creativity, and collaboration in complex, interdisciplinary workflows.
 
