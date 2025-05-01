@@ -50,15 +50,23 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
 </div>
 </div>
 
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *Sept 2024 – Jun 2026 (expected)*  
+  <a href="https://www.sysu.edu.cn/sysuen/" style="color:#005826; font-weight:bold;">Sun Yat-sen University</a>, Master of Arts in Journalism and Communication *(Interaction Design)*
+
+- *Sept 2020 – Jun 2024*  
+  <a href="https://ko.shisu.edu.cn/" style="color:#4d4efc; font-weight:bold;">Shanghai International Studies University</a>, Bachelor of Arts in New Media and Online Journalism  
+  ▪ GPA: 3.88/4.0 *(Top 1 of 25 students)*
+
+- *Sept 2021 – Mar 2023*  
+  <a href="https://www.fudan.edu.cn/en/" style="color:#3b71a6; font-weight:bold;">Fudan University</a>, Minor in Finance
+
 
 # 💻 Internships
 
 - *2024.11 - 2025.05 (now)*, [Research Center for Aging User Experience and Service System Design](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm), advised by [Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), Tsinghua University.
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
