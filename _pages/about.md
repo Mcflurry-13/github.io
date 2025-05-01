@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello 👋! My name is **Xiaofan Ma (马霄凡)**, and I am a Master's student in **Interaction Design** at  <a href="https://www.sysu.edu.cn/sysuen/" style="color:#005826; font-weight:bold;">Sun Yat-sen University</a>**Sun Yat-sen University**</a>, based in the **School of Journalism and Communication**.
+Hello 👋! My name is **Xiaofan Ma (马霄凡)**, and I am a Master's student in **Interaction Design** at  <a href="https://www.sysu.edu.cn/sysuen/" style="color:#005826; font-weight:bold;">Sun Yat-sen University</a>, based in the **School of Journalism and Communication**.
 
 My academic journey bridges **Human-Computer Interaction (HCI)** and **Communication Studies**, enabling me to investigate how AI technologies can empower human understanding, expression, and collaboration in complex real-world settings.
 
