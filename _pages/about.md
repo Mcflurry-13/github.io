@@ -74,7 +74,7 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
   <div class='paper-box-text' markdown="1">
 
 [VisAug: Speech-rich Video Navigation System Based on AI-Generated Visual Augmentations](#)  
-**Xiaofan Ma**, Collaborators...  
+Baoquan Zhao, **Xiaofan Ma**, Qianshi Pang, Ruomei Wang, Fan Zhou, Shujin Lin*
 [**PDF (Under review)**](#)
 
 - This paper presents an AI-powered interface that enhances speech-rich video navigation via semantic keyword-based visual augmentations.
@@ -99,9 +99,7 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
 
 [[Project Website]](http://111.230.109.148:8080) [[PDF (upon request)]](#)
 
-- We propose a three-layer cultural gene framework for interpreting visual, behavioral, and ideological elements of Chinese ethnic attire.  
-- We design **Huachang Aesthetic**, an interactive platform that integrates **AI-generated** storytelling and image synthesis.  
-- This system enhances user understanding and cultural identity through progressive, multimodal exploration.
+- We present a layered cultural gene model and design an AI-enhanced system, Huashang Aesthetic, to support progressive cultural exploration and engagement with Chinese ethnic costume.
 
 </div>
 </div>
