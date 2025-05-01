@@ -88,7 +88,7 @@ Baoquan Zhao, **Xiaofan Ma**, Qianshi Pang, Ruomei Wang, Fan Zhou, Shujin Lin*
   <div class='paper-box-image'>
     <div>
       <div class="badge">ZhuangShi (under review)</div>
-      <img src='images/huashangmei.png' alt="Huashang Aesthetic" width="100%">
+      <img src='images/huachangmeixue.png' alt="HuaChang Aesthetic" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
