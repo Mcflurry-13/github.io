@@ -34,7 +34,7 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Our paper "More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization" got IEEE PacificVIS 2025 Conference Track Best Paper Award🏆! Thanks to my collaborators!. 
+- *2025.04*: &nbsp;🎉🎉 Our paper "More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization" got IEEE PacificVIS 2025 Conference Track Best Paper Award🏆! Thanks to my collaborators!
 
 # 📝 Publications 
 
@@ -48,6 +48,8 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
 [**Conference paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=frQ9tgMAAAAJ&citation_for_view=frQ9tgMAAAAJ:d1gkVwhDpl0C) <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This study provides the first systematic characterization of artistic data visualization by analyzing 220 artworks and conducting 12 interviews with practitioners, offering theoretical insights and practical guidance for bridging data aesthetics and visualization design.
 </div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -57,9 +59,6 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2024.11 - 2025.05 (now)*, [Research Center for Aging User Experience and Service System Design](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm), advised by [Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), Tsinghua University.
