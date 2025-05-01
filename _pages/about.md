@@ -37,7 +37,7 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 # 🔥 News
 
 - *2025.04*: 🎉🎉 Our paper *“More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization”* got **IEEE PacificVIS 2025 Conference Track Best Paper Award 🏆**! Thanks to my collaborators!
-- *2024.11*: 🎉 I started a research internship at the [Tsinghua University Future Laboratory](https://thfl.tsinghua.edu.cn/en/), working at the [Research Center for Aging User Experience and Service System Design](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm) under the supervision of [Prof. Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm).
+- *2024.11*: 👩‍💻👩‍💻 I started a research internship at the [**Tsinghua University Future Laboratory**](https://thfl.tsinghua.edu.cn/en/), working at the [**Research Center for Aging User Experience and Service System Design**](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm) under the supervision of [**Prof. Jeung Jihong**](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm).
 
 
 <br><br>
@@ -95,7 +95,7 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 **Layered Exploration and Experience of Chinese Ethnic Costume from a Cultural Gene Perspective**  
 - **Xiaofan Ma**, Lirong Yan, Weiping Zeng, Weijia Zhao, Huiyue Wu  
-- Submitted to *Zhuangshi* (《装饰》 Journal of Design)  
+- Submitted to *Zhuangshi* ([《装饰》](https://www.ad.tsinghua.edu.cn/info/1052/1058.htm) ，Journal of Design)  
 
 [[Project Website]](http://111.230.109.148:8080) 
 
