@@ -125,13 +125,13 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 # 💻 Internships
 
-- *2024.11 - 2025.05 (now)*, [Research Center for Aging User Experience and Service System Design](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm), advised by [Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), Tsinghua University.
+- *2024.11 – 2025.05 (now)*, [Research Center for Aging User Experience and Service System Design](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm), advised by [Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), Tsinghua University.
 
-<div style="margin-left: 2em;">
-- Conducted user research and system evaluation on <span style="color:rgb(164,138,255);">digital participation mechanism</span> among older adults in online communities.  
-- Designed and deployed an <span style="color:rgb(164,138,255);">AI agent for older adults' group chats</span>, integrated into existing messaging platforms to enable real-time conversational support.  
-- Investigated cultural differences in older adults’ perceptions, comfort levels, and emotional reactions to <span style="color:rgb(164,138,255);">VR-based experiences</span>, comparing user behavior and design expectations across Chinese and international participants.
-</div>
+<ul style="margin-left: 1.5em; margin-top: 0.5em;">
+  <li>Conducted user research and system evaluation on <span style="color:rgb(164,138,255);">digital participation mechanism</span> among older adults in online communities.</li>
+  <li>Designed and deployed an <span style="color:rgb(164,138,255);">AI agent for older adults' group chats</span>, integrated into messaging platforms for real-time conversational support.</li>
+  <li>Investigated cross-cultural differences in older adults’ perceptions and emotional responses to <span style="color:rgb(164,138,255);">VR-based experiences</span>.</li>
+</ul>
 
 <br><br>
 
