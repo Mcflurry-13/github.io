@@ -42,8 +42,6 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 # 📝 Publications
 
-<br>
-
 <!-- ✅ 论文 1：视觉化设计论文 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -86,21 +84,26 @@ Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**
 
 <br>
 
-<!-- ✅ 论文 3：老年用户与数字参与 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICC-RCA 2022</div>
-      <img src='images/wecare.png' alt="WeCare" width="100%">
+      <div class="badge">Submitted to *ZhuangShi*</div>
+      <img src='images/huashangmei.png' alt="Huashang Aesthetic" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[WeCare: Combating Relocated Seniors’ Loneliness through Community Gardening Engagement and Digital Interaction](#)  
-**Xiaofan Ma**, Collaborators...  
-[**Design Competition Winner**](#)
+**Layered Exploration and Experience of Chinese Ethnic Costume from a Cultural Gene Perspective**  
+- **Xiaofan Ma**, Lirong Yan, Weiping Zeng, Weijia Zhao, Huiyue Wu  
+- Submitted to *Zhuangshi* (《装饰》 Journal of Design)  
 
-- A service concept that connects relocated seniors via WeChat-based gardening and AI-assisted interaction to alleviate social isolation.
+[[Project Website]](http://111.230.109.148:8080) [[PDF (upon request)]](#)
+
+<!-- 
+- We propose a three-layer cultural gene framework for interpreting visual, behavioral, and ideological elements of Chinese ethnic attire.  
+- We design **Huashang Aesthetic**, an interactive platform that integrates AI-generated storytelling and image synthesis.  
+- This system enhances user understanding and cultural identity through progressive, multimodal exploration.
+-->
 
 </div>
 </div>
