@@ -1,13 +1,13 @@
-# main links links
+# main links
 main:
   - title: "About Me"
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#publications"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"
+
+  - title: "Honors and Awards"
+    url: "/#honors"
