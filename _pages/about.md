@@ -19,7 +19,7 @@ redirect_from:
 
 Hello 👋! My name is **Xiaofan Ma (马霄凡)**. I am a Master's student in **Interaction Design** at <a href="https://www.sysu.edu.cn/sysuen/" style="color:#005826; font-weight:bold;">Sun Yat-sen University</a>, and I will be joining the <a href="https://www.bcnm.berkeley.edu/mdes" style="color:#003262; font-weight:bold;">Master of Design (MDes)</a> program at **UC Berkeley** in Fall 2026.
 
-My academic journey bridges **Human-Computer Interaction (HCI)** and **Communication Studies**. I am broadly interested in how AI technologies can reshape the way people communicate, collaborate, and create together.
+My academic journey bridges **Human-Computer Interaction (HCI)** and **Communication Studies**. I am broadly interested in how AI technologies can reshape the way people <mark>communicate</mark>, <mark>collaborate</mark>, and <mark>create</mark> together.
 
 My current research explores **AI-mediated communication and collaboration**, investigating how intelligent systems can support mutual understanding and knowledge sharing across disciplinary boundaries. I draw on theories from **HCI, communication, and social cognition** to design interactive systems that augment human capabilities in complex collaborative settings.
 
@@ -112,7 +112,7 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE PacificVis 2025 🏆 Best Paper</div>
+      <div class="badge badge-award">IEEE PacificVis 2025 🏆 Best Paper</div>
       <img src='images/pacificvis2025.png' alt="More Than Beautiful" width="100%">
     </div>
   </div>
@@ -130,12 +130,27 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 <br>
 
 <!-- 紧凑列表：其他论文 -->
+<div class="pub-list">
 
-- `UIST 2026 (under review)` **Interactive Intent Editing: From Black-box to Transparent Human-AI Intent Collaboration** — Zhixian He, **Xiaofan Ma**, Qiushi Li, Huiying Zheng, Ruixi Feng, Shujin Lin*
+<div class="pub-list-item">
+  <span class="badge-sm">UIST 2026</span> <span class="badge-sm badge-review">under review</span>
+  <strong>Interactive Intent Editing: From Black-box to Transparent Human-AI Intent Collaboration</strong><br>
+  <span class="pub-authors">Zhixian He, <strong>Xiaofan Ma</strong>, Qiushi Li, Huiying Zheng, Ruixi Feng, Shujin Lin*</span>
+</div>
 
-- `DIS 2026 (conditional accept)` **Exploring the Potential of Immersive Virtual Reality in Community Music Activities with Older Adults in CCRC** — Tongxin Sun, Mingqi Wang, **Xiaofan Ma**, Jihong Jeung*
+<div class="pub-list-item">
+  <span class="badge-sm badge-accept">DIS 2026</span> <span class="badge-sm badge-accept">conditional accept</span>
+  <strong>Exploring the Potential of Immersive Virtual Reality in Community Music Activities with Older Adults in CCRC</strong><br>
+  <span class="pub-authors">Tongxin Sun, Mingqi Wang, <strong>Xiaofan Ma</strong>, Jihong Jeung*</span>
+</div>
 
-- `IJHCS (under review)` **Gardenverse: An Ethnographic Study of Middle-Aged and Older Adults' Participation in an Interest-Based Online Community** — Tongtong Jin, Wei Zhao, **Xiaofan Ma**, Diya Wang, Jihong Jeung*
+<div class="pub-list-item">
+  <span class="badge-sm">IJHCS</span> <span class="badge-sm badge-review">under review</span>
+  <strong>Gardenverse: An Ethnographic Study of Middle-Aged and Older Adults' Participation in an Interest-Based Online Community</strong><br>
+  <span class="pub-authors">Tongtong Jin, Wei Zhao, <strong>Xiaofan Ma</strong>, Diya Wang, Jihong Jeung*</span>
+</div>
+
+</div>
 
 <br><br>
 
@@ -162,16 +177,16 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 - *2024.11 – present*, AI Agent Development Intern, [The Future Laboratory](https://thfl.tsinghua.edu.cn/en/), advised by [Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), **Tsinghua University**.
 
 <ul style="margin-left: 1.5em; margin-top: 0.5em;">
-  <li>Contributed to the design and development of <span style="color:rgb(164,138,255);">AI Agent</span> tailored for elderly gardening social community, implementing chatbot integration into WeChat group.</li>
-  <li>Conducted user research and system evaluation on <span style="color:rgb(164,138,255);">digital participation mechanism</span> among older adults in online communities.</li>
-  <li>Investigated cross-cultural differences in older adults' perceptions and emotional responses to <span style="color:rgb(164,138,255);">VR-based experiences</span>.</li>
+  <li>Contributed to the design and development of <mark>AI Agent</mark> tailored for elderly gardening social community, implementing chatbot integration into WeChat group.</li>
+  <li>Conducted user research and system evaluation on <mark>digital participation mechanism</mark> among older adults in online communities.</li>
+  <li>Investigated cross-cultural differences in older adults' perceptions and emotional responses to <mark>VR-based experiences</mark>.</li>
 </ul>
 
 - *2022.08 – 2023.02*, Project Management Office Intern, **Shanghai NIO Co., Ltd.**
 
 <ul style="margin-left: 1.5em; margin-top: 0.5em;">
-  <li>Developed <span style="color:rgb(164,138,255);">data dashboards</span> to analyze user interaction for in-company management app, identifying key issues and opportunities through weekly analytics.</li>
-  <li>Refined <span style="color:rgb(164,138,255);">user personas and journey maps</span> for in-company app, driving product usage coverage from 63% to 92.12% in R&D team.</li>
+  <li>Developed <mark>data dashboards</mark> to analyze user interaction for in-company management app, identifying key issues and opportunities through weekly analytics.</li>
+  <li>Refined <mark>user personas and journey maps</mark> for in-company app, driving product usage coverage from 63% to 92.12% in R&D team.</li>
 </ul>
 
 <br><br>
