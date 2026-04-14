@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello 👋! My name is **Xiaofan Ma (马霄凡)**, and I am a Master's student in **Interaction Design** at  <a href="https://www.sysu.edu.cn/sysuen/" style="color:#005826; font-weight:bold;">Sun Yat-sen University</a>, based in the **School of Journalism and Communication**.
+Hello 👋! My name is **Xiaofan Ma (马霄凡)**. I am a Master's student in **Interaction Design** at <a href="https://www.sysu.edu.cn/sysuen/" style="color:#005826; font-weight:bold;">Sun Yat-sen University</a>, and I will be joining the <a href="https://www.bcnm.berkeley.edu/mdes" style="color:#003262; font-weight:bold;">Master of Design (MDes)</a> program at **UC Berkeley** in Fall 2026.
 
-My academic journey bridges **Human-Computer Interaction (HCI)** and **Communication Studies**, enabling me to investigate how AI technologies can empower human understanding, expression, and collaboration in complex real-world settings.
+My academic journey bridges **Human-Computer Interaction (HCI)** and **Communication Studies**. I am broadly interested in how AI technologies can reshape the way people communicate, collaborate, and create together.
 
-My current research focuses on **AI-mediated communication in interdisciplinary teams**, where I explore how **AI Agent** can reduce cognitive barriers, enhance mutual understanding, and foster alignment through **persuasive strategies** and **knowledge boundary negotiation**. I draw from theories in **HCI, communication, and social cognition** to design systems that amplify human capabilities and support smoother collaboration across disciplines.
+My current research explores **AI-mediated communication and collaboration**, investigating how intelligent systems can support mutual understanding and knowledge sharing across disciplinary boundaries. I draw on theories from **HCI, communication, and social cognition** to design interactive systems that augment human capabilities in complex collaborative settings.
 
-Beyond collaborative AI, I am broadly interested in **designing human-centered AI systems** that support:
+I am also excited about:
 
-- 🎨 cultural exploration and creative expression  
+- 🤖 human-AI interaction and collaborative intelligence  
+- 🎨 design tools for creative expression and cultural exploration  
 - 📊 multimodal storytelling and data visualization  
-- 👵 inclusive interaction for older adults  
-- ❤️ AI-driven narrative games for self-reflection and future thinking
+- 👵 inclusive technology design for older adults
 
 Through my work, I strive to build **empathetic, adaptive, and empowering AI systems**—technologies that help people understand the world, collaborate meaningfully, and reflect more deeply on themselves 🌏.
 
@@ -36,48 +36,70 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 # 🔥 News
 
-- *2025.04*: 🎉🎉 Our paper *“More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization”* got **IEEE PacificVIS 2025 Conference Track Best Paper Award 🏆**! Thanks to my collaborators!
-- *2024.11*: 👩‍💻👩‍💻 I started a research internship at the [**Tsinghua University Future Laboratory**](https://thfl.tsinghua.edu.cn/en/), working at the [**Research Center for Aging User Experience and Service System Design**](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm) under the supervision of [**Prof. Jeung Jihong**](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm).
+- *2026.04*: 🎉 I am thrilled to be admitted to the **UC Berkeley Master of Design (MDes)** program! Looking forward to joining the Berkeley community in Fall 2026.
+- *2025.12*: 📢 Presented our paper *"Layered Exploration and Experience of Chinese Ethnic Costume"* at **IASDR 2025** in Hong Kong.
+- *2025.04*: 🏆 Our paper *"More Than Beautiful"* received the **IEEE PacificVis 2025 Best Paper Award**!
+- *2024.11*: 👩‍💻 Started a research internship at the [**Tsinghua University Future Laboratory**](https://thfl.tsinghua.edu.cn/en/).
 
 
 <br><br>
 
 # 📝 Publications
 
-<!-- ✅ 论文 1：视觉化设计论文 -->
+<!-- ✅ 论文 1：MemFlow (一作, UIST 2026 under review) -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE PacificVis 2025</div>
-      <img src='images/pacificvis2025.png' alt="More Than Beautiful" width="100%">
+      <div class="badge">UIST 2026 (under review)</div>
+      <img src='images/memflow.png' alt="MemFlow" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization](https://arxiv.org/pdf/2502.04940)  
-- Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**  
-- [**Conference paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=frQ9tgMAAAAJ&citation_for_view=frQ9tgMAAAAJ:d1gkVwhDpl0C)  
+**MemFlow: Externalizing and Synthesizing User-AI Conversational Memories for Team Collaboration**
+- **Xiaofan Ma**, Zhixian He, Qiushi Li, Weiping Zeng, Huiying Zheng, Ruixi Feng, Shujin Lin*
 
-- This study provides the first systematic characterization of artistic data visualization through 220 data artworks and 12 interviews with artists.
+- A mixed-initiative system that transforms personal AI conversation histories into structured memory cards and supports AI-assisted synthesis of team knowledge.
 
 </div>
 </div>
 
 <br>
 
-<!-- ✅ 论文 2：AI 视频增强论文 -->
+<!-- ✅ 论文 2：IASDR 2025 文化基因 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ACM Multimedia 2025 (under review)</div>
-      <img src='images/visaug.png' alt="Speech-Rich Video Navigation" width="100%">
+      <div class="badge">IASDR 2025</div>
+      <img src='images/iasdr2025.png' alt="Layered Exploration" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-**VisAug: Speech-rich Video Navigation System Based on AI-Generated Visual Augmentations**
+[Layered Exploration and Experience of Chinese Ethnic Costume from a Cultural Gene Perspective](https://doi.org/10.21606/iasdr.2025.1179)  
+- **Xiaofan Ma**, Lirong Yan, Weiping Zeng, Weijia Zhao, Huiyue Wu*
+- [**Paper**](https://doi.org/10.21606/iasdr.2025.1179) \| [**Project Website**](http://111.230.109.148:8080) \| [**Slides**](files/iasdr2025_huashang_slides.pdf)
+
+- We present a layered cultural gene model and design an AI-enhanced system, Huashang Aesthetic, to support progressive cultural exploration and engagement with Chinese ethnic costume.
+
+</div>
+</div>
+
+<br>
+
+<!-- ✅ 论文 3：ACM Multimedia 2025 VisAug -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACM Multimedia 2025</div>
+      <img src='images/visaug.png' alt="VisAug" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[VisAug: Speech-rich Video Navigation System Based on AI-Generated Visual Augmentations](https://doi.org/10.1145/3746027.3754584)  
 - [Baoquan Zhao](https://baoquanzhao.github.io/), **Xiaofan Ma**, Qianshi Pang, Ruomei Wang, Fan Zhou, Shujin Lin*
-- [[**User Study**]](https://www2768.github.io/suppl/)
+- [**Paper**](https://doi.org/10.1145/3746027.3754584) \| [**User Study**](https://www2768.github.io/suppl/)
 
 - This paper presents an AI-powered interface that enhances speech-rich video navigation via semantic keyword-based visual augmentations.
 
@@ -86,37 +108,49 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 <br>
 
-<!-- ✅ 论文 3：文化基因论文 -->
+<!-- ✅ 论文 4：IEEE PacificVis 2025 Best Paper -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ZhuangShi (under review)</div>
-      <img src='images/huachangmeixue.png' alt="HuaChang Aesthetic" width="100%">
+      <div class="badge">IEEE PacificVis 2025 🏆 Best Paper</div>
+      <img src='images/pacificvis2025.png' alt="More Than Beautiful" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Layered Exploration and Experience of Chinese Ethnic Costume from a Cultural Gene Perspective**  
-- **Xiaofan Ma**, Lirong Yan, Weiping Zeng, Weijia Zhao, Huiyue Wu*
-- Submitted to *Zhuangshi* ([《装饰》](https://www.ad.tsinghua.edu.cn/info/1052/1058.htm) ，Journal of Design)  
+[More Than Beautiful: Exploring Design Features, Practical Perspectives, and Implications of Artistic Data Visualization](https://arxiv.org/pdf/2502.04940)  
+- Xingyu Lan, Yifan Wang, Lingyu Peng, **Xiaofan Ma**  
+- [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=frQ9tgMAAAAJ&citation_for_view=frQ9tgMAAAAJ:d1gkVwhDpl0C)
 
-- [[**Project Website**]](http://111.230.109.148:8080) 
-
-- We present a layered cultural gene model and design an **AI-enhanced system**, Huashang Aesthetic, to support progressive cultural exploration and engagement with Chinese ethnic costume.
+- This study provides the first systematic characterization of artistic data visualization through 220 data artworks and 12 interviews with artists.
 
 </div>
 </div>
+
+<br>
+
+<!-- 紧凑列表：其他论文 -->
+
+- `UIST 2026 (under review)` **Interactive Intent Editing: From Black-box to Transparent Human-AI Intent Collaboration** — Zhixian He, **Xiaofan Ma**, Qiushi Li, Huiying Zheng, Ruixi Feng, Shujin Lin*
+
+- `DIS 2026 (conditional accept)` **Exploring the Potential of Immersive Virtual Reality in Community Music Activities with Older Adults in CCRC** — Tongxin Sun, Mingqi Wang, **Xiaofan Ma**, Jihong Jeung*
+
+- `IJHCS (under review)` **Gardenverse: An Ethnographic Study of Middle-Aged and Older Adults' Participation in an Interest-Based Online Community** — Tongtong Jin, Wei Zhao, **Xiaofan Ma**, Diya Wang, Jihong Jeung*
 
 <br><br>
 
 # 📖 Educations
 
+- *Fall 2026 (incoming)*  
+  <a href="https://www.berkeley.edu/" style="color:#003262; font-weight:bold;">University of California, Berkeley</a>, Master of Design (MDes)
+
 - *Sept 2024 – Jun 2026 (expected)*  
-  <a href="https://www.sysu.edu.cn/sysuen/" style="color:#005826; font-weight:bold;">Sun Yat-sen University</a>, Master of Arts in Journalism and Communication *(Interaction Design)*
+  <a href="https://www.sysu.edu.cn/sysuen/" style="color:#005826; font-weight:bold;">Sun Yat-sen University</a>, Master of Arts in Journalism and Communication *(Interaction Design)*  
+  ▪ GPA: 4.1/5.0 *(Ranked 1 / 24)*
 
 - *Sept 2020 – Jun 2024*  
   <a href="https://ko.shisu.edu.cn/" style="color:#4d4efc; font-weight:bold;">Shanghai International Studies University</a>, Bachelor of Arts in New Media and Online Journalism  
-  ▪ GPA: 3.88/4.0 *(Top 1 of 25 students)*
+  ▪ GPA: 3.88/4.0 *(Ranked 1 / 25)*
 
 - *Sept 2021 – Mar 2023*  
   <a href="https://www.fudan.edu.cn/en/" style="color:#3b71a6; font-weight:bold;">Fudan University</a>, Minor in Finance
@@ -125,21 +159,28 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 # 💻 Internships
 
-- *2024.11 – 2025.05 (now)*, [Research Center for Aging User Experience and Service System Design](https://thfl.tsinghua.edu.cn/en/kxyj/Organization/Research_Center_for_Aging_User_Experience_and_Serv.htm), advised by [Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), Tsinghua University.
+- *2024.11 – present*, AI Agent Development Intern, [The Future Laboratory](https://thfl.tsinghua.edu.cn/en/), advised by [Jeung Jihong](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Jeung_Jihong.htm), **Tsinghua University**.
 
 <ul style="margin-left: 1.5em; margin-top: 0.5em;">
+  <li>Contributed to the design and development of <span style="color:rgb(164,138,255);">AI Agent</span> tailored for elderly gardening social community, implementing chatbot integration into WeChat group.</li>
   <li>Conducted user research and system evaluation on <span style="color:rgb(164,138,255);">digital participation mechanism</span> among older adults in online communities.</li>
-  <li>Designed and deployed an <span style="color:rgb(164,138,255);">AI agent for older adults' group chats</span>, integrated into messaging platforms for real-time conversational support.</li>
-  <li>Investigated cross-cultural differences in older adults’ perceptions and emotional responses to <span style="color:rgb(164,138,255);">VR-based experiences</span>.</li>
+  <li>Investigated cross-cultural differences in older adults' perceptions and emotional responses to <span style="color:rgb(164,138,255);">VR-based experiences</span>.</li>
+</ul>
+
+- *2022.08 – 2023.02*, Project Management Office Intern, **Shanghai NIO Co., Ltd.**
+
+<ul style="margin-left: 1.5em; margin-top: 0.5em;">
+  <li>Developed <span style="color:rgb(164,138,255);">data dashboards</span> to analyze user interaction for in-company management app, identifying key issues and opportunities through weekly analytics.</li>
+  <li>Refined <span style="color:rgb(164,138,255);">user personas and journey maps</span> for in-company app, driving product usage coverage from 63% to 92.12% in R&D team.</li>
 </ul>
 
 <br><br>
 
 # ✨ Honors and Awards
 
-- *May 2025* **Gold Winner** 2025 MUSE Design Award  
-- *Dec 2024* **Silver Winner** 2024 LONDON DESIGN AWARDS  
-- *Jun 2024* **Top 1%** Shanghai Outstanding Graduate  
-- *Dec 2022* **Top 1%** National Scholarship for Undergraduate Students  
-- *2021 – 2024* **First Prize** SISU Outstanding Student Scholarship  
-
+- *2025* **Top 1%** National Scholarship for Graduate Students  
+- *May 2025* **Gold Winner** 2025 MUSE Design Award  
+- *Dec 2024* **Silver Winner** 2024 LONDON DESIGN AWARDS  
+- *Jun 2024* **Top 1%** Shanghai Outstanding Graduate  
+- *Dec 2022* **Top 1%** National Scholarship for Undergraduate Students  
+- *2021 – 2024* **First Prize** SISU Outstanding Student Scholarship
