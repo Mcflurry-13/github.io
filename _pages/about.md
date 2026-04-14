@@ -34,6 +34,8 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 <br><br>
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 
 - *2026.04*: 🎉 I am thrilled to be admitted to the **UC Berkeley Master of Design (MDes)** program! Looking forward to joining the Berkeley community in Fall 2026.
@@ -43,6 +45,8 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 
 <br><br>
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
@@ -154,6 +158,8 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 
 <br><br>
 
+<span class='anchor' id='educations'></span>
+
 # 📖 Educations
 
 - *Fall 2026 (incoming)*  
@@ -171,6 +177,8 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
   <a href="https://www.fudan.edu.cn/en/" style="color:#3b71a6; font-weight:bold;">Fudan University</a>, Minor in Finance
 
 <br><br>
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 
@@ -190,6 +198,8 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 </ul>
 
 <br><br>
+
+<span class='anchor' id='honors'></span>
 
 # ✨ Honors and Awards
 
