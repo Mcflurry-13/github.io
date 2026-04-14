@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: /github.io/#about-me
 
   - title: "Publications"
-    url: "/#publications"
+    url: /github.io/#publications
 
   - title: "Internships"
-    url: "/#internships"
+    url: /github.io/#internships
 
   - title: "Honors and Awards"
-    url: "/#honors"
+    url: /github.io/#honors
