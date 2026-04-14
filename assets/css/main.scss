@@ -40,6 +40,23 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ==========================================================================
+   HIGHLIGHT / MARKER
+   Mint-teal text highlight inspired by longitudinal-workshop style
+   ========================================================================== */
+
+mark {
+  background: linear-gradient(120deg, rgba(166, 237, 220, 0.35) 0%, rgba(166, 237, 220, 0.55) 100%);
+  padding: 0.05em 0.2em;
+  border-radius: 3px;
+  color: inherit;
+}
+
+
+/* ==========================================================================
+   PAPER BOX — featured publications
+   ========================================================================== */
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -48,44 +65,133 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
+    transition: all 0.2s ease;
     
+    &:hover {
+      background: rgba(166, 237, 220, 0.06);
+      border-radius: 8px;
+      margin: 0 -1em;
+      padding: 2em 1em;
+    }
 
-    .paper-box-image{
+    .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+            border-radius: 6px;
             object-fit: cover;
+            transition: box-shadow 0.2s ease;
+        }
+        &:hover img {
+            box-shadow: 0 4px 20px rgba(0,0,0,0.12);
         }
     }
     
-    .paper-box-text{
+    .paper-box-text {
         max-width: 100%;
         order: 1;
     }
     
     @include breakpoint($medium) {
-        .paper-box-image{
+        .paper-box-image {
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
         
-        .paper-box-text{
+        .paper-box-text {
             justify-content: left;
             padding-left: 2em;
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
+
+
+/* ==========================================================================
+   BADGE — venue tags on paper images
+   ========================================================================== */
+
+.badge {
+    padding: 0.25rem 0.75rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #444;
+    font-size: .75em;
+    border-radius: 4px;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+}
+
+.badge-award {
+    background: linear-gradient(135deg, #d4a017, #f0c040);
+    color: #2a1f00;
+}
+
+
+/* ==========================================================================
+   COMPACT PUB LIST — non-featured publications
+   ========================================================================== */
+
+.pub-list {
+    margin-top: 0.5em;
+}
+
+.pub-list-item {
+    padding: 0.8em 0;
+    border-bottom: 1px solid #f0f0f0;
+    line-height: 1.6;
+    
+    &:last-child {
+        border-bottom: none;
+    }
+    
+    strong {
+        font-weight: 600;
+    }
+}
+
+.pub-authors {
+    font-size: 0.9em;
+    color: #555;
+}
+
+.badge-sm {
+    display: inline-block;
+    padding: 0.15em 0.5em;
+    font-size: 0.75em;
+    font-weight: 600;
+    border-radius: 3px;
+    background-color: #e8e8e8;
+    color: #333;
+    margin-right: 0.3em;
+    margin-bottom: 0.3em;
+    vertical-align: middle;
+    letter-spacing: 0.01em;
+}
+
+.badge-review {
+    background-color: #fff3e0;
+    color: #e65100;
+}
+
+.badge-accept {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+}
+
+
+/* ==========================================================================
+   SCROLL OFFSET
+   ========================================================================== */
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
@@ -95,15 +201,4 @@ h1:before, .anchor:before {
     width: 0; 
     height: $scroll_offset; 
     margin-top: -$scroll_offset;
-}
-
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
 }
