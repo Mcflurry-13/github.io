@@ -39,7 +39,7 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
 # 🔥 News
 
 - *2026.04*: 🎉 I am thrilled to be admitted to the **UC Berkeley Master of Design (MDes)** program! Looking forward to joining the Berkeley community in Fall 2026.
-- *2025.12*: 📢 Presented our paper *"Layered Exploration and Experience of Chinese Ethnic Costume"* at **IASDR 2025** in Taipei.
+- *2025.12*: 📢 Presented our paper *"Designing Hierarchical Exploratory Experiences for Ethnic Costumes: A Cultural Gene-Based Perspective"* at **IASDR 2025** in Taipei.
 - *2025.04*: 🏆 Our paper *"More Than Beautiful"* received the **IEEE PacificVis 2025 Best Paper Award**!
 - *2024.11*: 👩‍💻 Started a research internship at the [**Tsinghua University Future Laboratory**](https://thfl.tsinghua.edu.cn/en/).
 
@@ -80,7 +80,7 @@ Through my work, I strive to build **empathetic, adaptive, and empowering AI sys
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Layered Exploration and Experience of Chinese Ethnic Costume from a Cultural Gene Perspective](https://doi.org/10.21606/iasdr.2025.1179)  
+[Designing Hierarchical Exploratory Experiences for Ethnic Costumes: A Cultural Gene-Based Perspective](https://doi.org/10.21606/iasdr.2025.1179)  
 - **Xiaofan Ma**, Lirong Yan, Weiping Zeng, Weijia Zhao, Huiyue Wu*
 - [**Paper**](https://doi.org/10.21606/iasdr.2025.1179) \| [**Project Website**](http://111.230.109.148:8080) \| [**Slides**](files/iasdr2025_huashang_slides.pdf)
 
